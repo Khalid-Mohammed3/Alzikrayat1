@@ -4,7 +4,7 @@ require_once __DIR__ . '/../core/Model.php';
 
 /**
  * User Model
- * Handles database operations related to user accounts.
+ * Handles database operations related to user accounts
  */
 class User extends Model
 {

@@ -2,7 +2,7 @@
 
 /**
  * Router Class
- * Handles application routes manually using Regular Expressions.
+ * Handles application routes manually using Regular Expressions
  */
 
 class Router

@@ -4,7 +4,7 @@ require_once __DIR__ . '/../core/Model.php';
 
 /**
  * Photo Model
- * Handles all database operations related to photos.
+ * Handles all database operations related to photos
  */
 class Photo extends Model
 {

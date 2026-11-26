@@ -4,7 +4,7 @@ require_once __DIR__ . '/../core/Model.php';
 
 /**
  * Comment Model
- * Handles database operations related to photo comments.
+ * Handles database operations related to photo comments
  */
 class Comment extends Model
 {

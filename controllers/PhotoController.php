@@ -5,7 +5,7 @@ require_once __DIR__ . '/../models/Comment.php';
 
 /**
  * PhotoController
- * Handles photo display, upload, details, and deletion.
+ * Handles photo display, upload, details, and deletion
  */
 class PhotoController extends Controller
 {

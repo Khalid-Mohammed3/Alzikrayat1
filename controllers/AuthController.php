@@ -12,7 +12,7 @@ class AuthController extends Controller
     }
 
     /**
-     * Display registration page.
+     * Display registration page
      */
     public function register()
     {
